@@ -1,4 +1,19 @@
 
 h1 {
     color: yellowgreen;
+    margin: 10px 10px 10px 10px;
+    border: dashed blue 1px;
+    box-shadow:0 0 100px grey;
+
+}
+
+h6{
+    font-size: 18px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    box-shadow:20px 20px 20px grey;
 }
